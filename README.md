@@ -1,4 +1,3 @@
-# AMAZON-MANUAL-TESTING
 # HCL TRAINING
 ## First Task:
 Collect the test cases from Amazon e-commerce site.
@@ -13,9 +12,6 @@ Find the test cases and valid and invalid input from given exercises.
 [View the test cases from given exercises XL sheet](https://docs.google.com/spreadsheets/d/1E5XYy5GSTKugYZfok2l5zuTLiBM4PRKT37CBJL46Xq8/edit?usp=sharing)
 
 # Python Programming Exercises
-
-This repository contains simple Python programs based on basic programming concepts such as input handling, loops, conditional statements, string functions, and binary number conversion.
-
 ## Programs
 
 ### 1. Binary Numbers Divisible by 5
@@ -40,6 +36,10 @@ for i in s:
     if (int(i,2)%5==0):
         result.append(i)
 print(",".join(result))
+```
+### OUTPUT
+
+<img width="890" height="56" alt="image" src="https://github.com/user-attachments/assets/f5d10255-c47a-4fbf-8b5f-6748cbdb31c0" />
 
 ### 2. Count Letters and Digits
 
@@ -71,6 +71,10 @@ for i in n:
         digits+=1
 print("LETTERS: ",letters)
 print("DIGITS: ",digits)
+```
+### OUTPUT
+
+<img width="877" height="92" alt="image" src="https://github.com/user-attachments/assets/b6b70cae-f0e5-47b7-9abb-81d2bf454dc9" />
 
 ### 3. Factorial of a Number
 
@@ -96,3 +100,7 @@ fact=1
 for i in range(1,n+1):
     fact=fact*i
 print(fact)
+```
+## OUTPUT
+
+<img width="817" height="112" alt="image" src="https://github.com/user-attachments/assets/3f5bb022-e6f8-4dcb-ab07-70035fdc5172" />
