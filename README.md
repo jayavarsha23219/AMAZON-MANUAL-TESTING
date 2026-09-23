@@ -4,7 +4,7 @@
 Collect the test cases from Amazon e-commerce site.
 
 ## Excel sheet:
-
+[View the manual excel sheet](https://1drv.ms/x/c/3f24897300df0f03/IQBRUV_phyqETrC2RdSyAJuEARk8QOXuOD2tjazzZuPrbaU?e=eA0LCQ).
 
 ## Second Task
 Find the test cases and valid and invalid input from given exercises.
