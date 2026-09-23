@@ -9,7 +9,7 @@ Collect the test cases from Amazon e-commerce site.
 Find the test cases and valid and invalid input from given exercises.
 
 ## Excel sheet:
-[View the test cases from given exercises XL sheet](https://docs.google.com/spreadsheets/d/1E5XYy5GSTKugYZfok2l5zuTLiBM4PRKT37CBJL46Xq8/edit?usp=sharing)
+[View the test cases from given exercises XL sheet](https://1drv.ms/x/c/3f24897300df0f03/IQB25jVCIfegRqRBawPXy3_eASXzp7QLlZx2asbUlbraHzo?e=pIUsvK).
 
 # Python Programming Exercises
 ## Programs
