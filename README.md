@@ -104,3 +104,10 @@ print(fact)
 ## OUTPUT
 
 <img width="817" height="112" alt="image" src="https://github.com/user-attachments/assets/3f5bb022-e6f8-4dcb-ab07-70035fdc5172" />
+
+## Third Task:
+
+Collect the test cases from Spotify music streaming application.
+
+## Excel sheet:
+[View spotify testiong sheet](https://1drv.ms/x/c/3f24897300df0f03/IQBL7BdKTdtXRIpaA-3UD42IARp5NXnOWAcEyvLsl_0Qbmg?e=o4SXeh).
