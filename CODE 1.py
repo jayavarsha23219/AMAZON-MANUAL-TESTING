@@ -1,6 +1,6 @@
 '''
 1. Student Attendance Analysis
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -18,9 +18,9 @@ for right in range(n):
 
 print("Maximum value of length",maximum)
 
-
+'''
 2. Online Shopping Price Analysis
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -33,9 +33,9 @@ for i in range(1, n):
 
 print(maximum)
 
-
+'''
 3. Rainwater Collection System
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -66,9 +66,9 @@ while left <= right:
 
 print(water)
 
-
+'''
 4. Employee Performance Analysis
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -81,9 +81,9 @@ for i in range(1, n):
 
 print(maximum)
 
-
+'''
 5. Product Sales Analysis
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -103,9 +103,9 @@ for i in range(1, n):
     answer = max(answer, maximum)
 
 print(answer)
-
+'''
 6. Customer Purchase History
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -122,9 +122,9 @@ for right in range(n):
     maximum = max(maximum, right - left + 1)
 
 print("Maximum value of length",maximum)
-
+'''
 7. Bank Transaction Analysis
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -144,9 +144,9 @@ for x in a:
     prefix[total] = prefix.get(total, 0) + 1
 
 print(count)
-
+'''
 8. Employee Skill Grouping
-
+'''
 n = int(input())
 words = input().split()
 
@@ -162,9 +162,9 @@ for word in words:
 
 for group in groups.values():
     print(*group)
-
+'''
 9. Network Packet Analysis    
-
+'''
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -185,7 +185,7 @@ for num in numbers:
         maximum = max(maximum, length)
 
 print(maximum)
-
+'''
 10. Hospital Appointment Scheduling
 '''
 n = int(input())
